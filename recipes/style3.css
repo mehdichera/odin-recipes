@@ -1,0 +1,20 @@
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ol{
+    width: 700px;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+li {
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+}

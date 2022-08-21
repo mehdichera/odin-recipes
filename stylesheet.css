@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: mediumseagreen;
+}
+img{
+    border-radius: 20px;
+    width: 750px;
+    height: 400px;
+}
+h1 {
+    color: green;
+}
+h2 {
+    color: red;
+}
+a{
+    font-size: 20px;
+    text-decoration: none;
+}
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
+.white{
+    color: whitesmoke;
+}

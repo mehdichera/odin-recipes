@@ -1,0 +1,23 @@
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+   width: 750px;
+   height: 400px;
+}
+ol{
+    width: 700px;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+li {
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+}
